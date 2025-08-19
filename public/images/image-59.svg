@@ -1,0 +1,12 @@
+<!-- public/images/hygiene.svg -->
+<svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="80" height="80" rx="15" fill="#E0FFFF"/>
+<path d="M30 30L70 30L70 70L30 70L30 30Z" fill="#ADD8E6"/>
+<path d="M40 40L60 40L60 60L40 60L40 40Z" fill="white"/>
+<path d="M50 30L50 70" stroke="#4682B4" stroke-width="3" stroke-linecap="round"/>
+<path d="M30 50L70 50" stroke="#4682B4" stroke-width="3" stroke-linecap="round"/>
+<path d="M20 20L80 80M80 20L20 80" stroke="#4682B4" stroke-width="2" stroke-linecap="round"/>
+<circle cx="50" cy="50" r="10" fill="#FFD700"/>
+<path d="M45 50L55 50M50 45L50 55" stroke="#4682B4" stroke-width="2" stroke-linecap="round"/>
+<path d="M30 10L30 20M70 10L70 20M10 30L20 30M10 70L20 70M80 30L90 30M80 70L90 70M30 80L30 90M70 80L70 90" stroke="#4682B4" stroke-width="2" stroke-linecap="round"/>
+</svg>

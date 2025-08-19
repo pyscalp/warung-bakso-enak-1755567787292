@@ -1,0 +1,12 @@
+<!-- public/images/minuman_dingin.svg -->
+<svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="25" y="10" width="50" height="80" rx="10" fill="#E0FFFF"/>
+<path d="M30 15L70 15L65 85L35 85L30 15Z" fill="#ADD8E6"/>
+<circle cx="50" cy="30" r="8" fill="#FFD700"/>
+<circle cx="50" cy="50" r="8" fill="#90EE90"/>
+<circle cx="50" cy="70" r="8" fill="#FF6347"/>
+<path d="M25 10L75 10" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
+<path d="M30 85L70 85" stroke="#8B4513" stroke-width="2" stroke-linecap="round"/>
+<path d="M40 90L60 90" stroke="#8B4513" stroke-width="2" stroke-linecap="round"/>
+<path d="M35 5L65 5" stroke="#8B4513" stroke-width="2" stroke-linecap="round"/>
+</svg>
